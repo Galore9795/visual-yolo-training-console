@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv*/
+state/
+experiments.json
+training.json
+*.pt
+*.onnx
+*.engine
+*.log
